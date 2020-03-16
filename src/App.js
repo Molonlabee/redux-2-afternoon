@@ -20,3 +20,6 @@ class App extends Component {
 }
 
 export default App;
+
+//STEP 6_ERROR CAN NOT LOGIN ANYMORE
+//https://github.com/DevMountain/redux-2-afternoon

@@ -29,7 +29,6 @@ class Login extends Component {
       alert('Login failed. Please try again.');
     }
   }
-
   render() {
     return (
       <Background>
